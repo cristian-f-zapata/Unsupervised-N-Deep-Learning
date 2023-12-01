@@ -1,2 +1,2 @@
-# Computacional-2
-Trabajos del curso "Física computacional 2" en el cual se vió visión computacional, ML no supervisado y Deep learning 
+# Computational 2
+Here are the assignments for the 'Computational Physics 2' course, which covered computer vision, unsupervised machine learning, and an introduction to deep learning.
